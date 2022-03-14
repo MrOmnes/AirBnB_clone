@@ -1,0 +1,20 @@
+footer
+{
+	background-color: white;
+	height: 60px;
+	width: 100%;
+	border: 1px;
+	border-top-style: solid;
+	border-color: #CCCCCC;
+	display: table;
+	bottom: 0;
+	position: fixed;
+}
+
+span
+{
+	text-align: center;
+	vertical-align:middle;
+	display: table-cell;
+	margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+header
+{
+	background-color: #FFF;
+	height: 70px;
+	width: 100%;
+	border: 1px;
+	border-bottom-style: solid;
+	border-color: #cccccc;
+	align-items: center;
+    display: flex;
+}
+
+.img
+{
+	margin-left: 20px;
+	background-image: url("../images/logo.png");
+	width: 142px;
+	height: 60px;
+}
